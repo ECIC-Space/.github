@@ -1,4 +1,4 @@
-# 哈喽！欢迎来到 ECIC Space 的*秘密花园* 👋
+# 哈喽！欢迎来到 ECIC Space👋
 
 ## 我们是什么
 - ECIC.space是一个由ECIC的学生们共同创建的学生社区；
